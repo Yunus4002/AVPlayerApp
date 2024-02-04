@@ -9,3 +9,4 @@ Learning Outcomes
 - How to use AVKit to show a video to the user
 - Working with some configurations of UICollectionView
 - In general, turning a meaningles line of url to a representable Video, which can be presented using UICollectionView
+- Working with Info.plist to Allow Arbitrary Loads and etc...
